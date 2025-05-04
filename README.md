@@ -2,7 +2,7 @@
 
 **SwarmUI v0.9.5 Beta**.
 
-*Formerly known as StableSwarmUI.*
+*Formerly known as StableSwarmUI.
 
 A Modular AI Image Generation Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility. Supports AI image models (*Stable Diffusion, Flux, etc.*), and AI video models (*LTX-V, Hunyuan Video, Cosmos, Wan, etc.*), with plans to support eg audio and more in the future.
 
